@@ -1,0 +1,14 @@
+D:\ExamSystem\ExamSystem\bin\Debug\net10.0\ExamSystem.exe
+D:\ExamSystem\ExamSystem\bin\Debug\net10.0\ExamSystem.deps.json
+D:\ExamSystem\ExamSystem\bin\Debug\net10.0\ExamSystem.runtimeconfig.json
+D:\ExamSystem\ExamSystem\bin\Debug\net10.0\ExamSystem.dll
+D:\ExamSystem\ExamSystem\bin\Debug\net10.0\ExamSystem.pdb
+D:\ExamSystem\ExamSystem\obj\Debug\net10.0\ExamSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamSystem\ExamSystem\obj\Debug\net10.0\ExamSystem.AssemblyInfoInputs.cache
+D:\ExamSystem\ExamSystem\obj\Debug\net10.0\ExamSystem.AssemblyInfo.cs
+D:\ExamSystem\ExamSystem\obj\Debug\net10.0\ExamSystem.csproj.CoreCompileInputs.cache
+D:\ExamSystem\ExamSystem\obj\Debug\net10.0\ExamSystem.dll
+D:\ExamSystem\ExamSystem\obj\Debug\net10.0\refint\ExamSystem.dll
+D:\ExamSystem\ExamSystem\obj\Debug\net10.0\ExamSystem.pdb
+D:\ExamSystem\ExamSystem\obj\Debug\net10.0\ExamSystem.genruntimeconfig.cache
+D:\ExamSystem\ExamSystem\obj\Debug\net10.0\ref\ExamSystem.dll
